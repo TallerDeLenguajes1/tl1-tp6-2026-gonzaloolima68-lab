@@ -1,4 +1,5 @@
-﻿string ingresado;
+﻿using System;
+string ingresado;
 Console.WriteLine("Ingrese un numero");
 ingresado=Console.ReadLine();
 
