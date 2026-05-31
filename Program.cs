@@ -87,7 +87,6 @@ do
     Console.WriteLine("Maximo = "+ Math.Max(num1,num2));
     Console.WriteLine("Minimo = "+ Math.Min(num1,num2));
     }
-   
 
     Console.WriteLine("Desea realizar otra operacion s=si");
     continuar=Convert.ToChar(Console.ReadLine().ToLower());
